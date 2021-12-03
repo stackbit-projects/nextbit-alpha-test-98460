@@ -52,9 +52,10 @@ sections:
         justifyContent: flex-start
   - elementId: ''
     colors: colors-f
-    title: Where did everyone go?
+    title: Just testing...
     text: >
-      Learn how top tech companies have learned working remote using our product.
+      Learn how top tech companies have learned working remote using our
+      product.
     actions:
       - type: Button
         label: Sign Up
@@ -133,7 +134,7 @@ sections:
         caption: ZCOOL
     spacing: 3
     columns: 7
-    aspectRatio: 'auto'
+    aspectRatio: auto
     showCaption: false
     enableHover: false
     styles:
